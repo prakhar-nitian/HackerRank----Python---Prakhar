@@ -15,7 +15,7 @@
 # Output Format
 # Output the integer number indicating the total number of occurrences of the substring in the original string.
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+#  Read input from STDIN. Print output to STDOUT
 string = raw_input()
 substring = raw_input()
 
